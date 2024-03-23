@@ -20,4 +20,10 @@ https://blog.echen.me/2021/12/23/a-laymans-introduction-to-perplexity-in-nlp/
 
 https://spectrum.ieee.org/midjourney-copyright
 
+**Week 4**
+
+All the News That’s Fit to Fabricate: AI-Generated Text as a Tool of Media Misinformation - https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/abs/all-the-news-thats-fit-to-fabricate-aigenerated-text-as-a-tool-of-media-misinformation/40F27F0661B839FA47375F538C19FA59 
+
+
+
 
